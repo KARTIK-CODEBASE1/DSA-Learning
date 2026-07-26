@@ -1,0 +1,23 @@
+# Executables
+*.exe
+
+# DLLs
+*.dll
+
+# Object files
+*.o
+*.obj
+
+# Output files
+output.txt
+*.out
+
+# Build folders
+build/
+bin/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
